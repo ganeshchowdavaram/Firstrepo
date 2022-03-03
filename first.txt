@@ -1,1 +1,4 @@
-This is my first text in first repository under git.demo folder 
+
+This is my first text in first repository under git.demo folder
+
+making changes then again i should add to the repo then i should commit again to reflcet the changes made. 
